@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Banner example"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/a7/Perereca-macaco_-_Phyllomedusa_rohdei.jpg"
+       banner="https://iiif.juncture-digital.org/banner?url=https://upload.wikimedia.org/wikipedia/commons/a/a7/Perereca-macaco_-_Phyllomedusa_rohdei.jpg"
        author="Ron">
 
 # Lorem ipsum
